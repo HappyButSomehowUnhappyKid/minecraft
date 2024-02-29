@@ -77,7 +77,7 @@ if(codigo == 77){
 }
 //1. grama
 if(codigo == 71){
-	drawObject("https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Grass_%28item%29.png/revision/latest/scale-to-width/360?cb=20190826122346")
+	drawObject("https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Grass_%28item%29.png")
 }
 }
 

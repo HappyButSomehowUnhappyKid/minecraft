@@ -36,7 +36,7 @@ window.addEventListener("keydown", my_keydown)
 function my_keydown(tecla){
 codigo = tecla.keyCode
 //terra com grama
-if(codigo == 71 && tecla.shiftKey){
+if(codigo == 71){
 	drawObject("https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/709/14376136-pack_xl.webp")
 }
 
